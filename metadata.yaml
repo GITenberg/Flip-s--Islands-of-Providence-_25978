@@ -1,0 +1,42 @@
+_repo: Flip-s--Islands-of-Providence-_25978
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bonsall, Elizabeth Fearne
+    aliases:
+    - Bonsall, Elizabeth Ffearne
+    - Bonsall, Elisabeth Fearne
+    birthdate: 1861
+    deathdate: 1956
+    gutenberg_agent_id: '25058'
+    url: http://www.gutenberg.org/2009/agents/25058
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Johnston, Annie Fellows
+    - Fellows, Annie
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_issued: '2008-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Villages -- Fiction'
+- !lcc 'PS'
+title: Flip's "Islands of Providence"
+url: http://www.gutenberg.org/ebooks/25978
